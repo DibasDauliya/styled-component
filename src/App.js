@@ -1,6 +1,6 @@
 import { ThemeProvider } from 'styled-components'
 import GlobalStyles from './components/styles/Global'
-import { Header } from './components/styles/Header'
+import { Header } from './components/Header'
 
 function App() {
   const theme = {

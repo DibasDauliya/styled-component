@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container } from './Container.styled'
+import { Container } from './styles/Container.styled'
 
 export const Header = () => {
   return (
