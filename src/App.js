@@ -4,9 +4,12 @@ import { Header } from './components/Header'
 
 function App() {
   const theme = {
-    body: {
+    container: {
       color: 'rebeccapurple',
-      bg: '#ffd'
+      bg: '#fff'
+    },
+    body: {
+      bg: '#eee'
     }
   }
   return (

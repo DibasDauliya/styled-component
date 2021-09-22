@@ -7,6 +7,7 @@ const GlobalStyles = createGlobalStyle`
 }
   body {
     font-family: 'system-ui', sans-serif;
+    background: ${({ theme }) => theme.body.bg};
   }
 `
 export default GlobalStyles
